@@ -6,6 +6,7 @@ Create an account on https://www.assemblyai.com/ in order to generate your own A
 
 How to use:
 open your command prompt where you want to store the files,
+
 Run 
 git clone https://github.com/theHesari/Python-Convert-Speech-To-Text.git
 
